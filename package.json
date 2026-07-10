@@ -1,0 +1,12 @@
+{
+  "name": "mini-it-helpdesk",
+  "version": "1.0.0",
+  "description": "A full-stack IT Helpdesk Ticket Tracking System designed for a software developer internship demo. This application runs with zero configuration by utilizing Node's native SQLite module (`node:sqlite`) for database storage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
